@@ -14,5 +14,4 @@ Combining demographic filters in Tableau enables stakeholders to simulate scenar
 
 Tech stack
 Data visualization: Tableau Desktop for interactive dashboards and segment‑level drill‑downs.
-
 Data source: Cleaned tabular bike buyers data imported from CSV, modeled directly in Tableau for flexible filtering and aggregation.
